@@ -1,4 +1,4 @@
-# Interval Lock Library
+# Interval Lock
 
 ## Overview
 This library provides a thread-safe mechanism for managing shared and exclusive locks on intervals. It uses an interval tree to efficiently handle overlapping intervals. The library offers two types of locks:
