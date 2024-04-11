@@ -1,0 +1,19 @@
+# macOS specific 
+.DS_Store
+
+# VS Code specific
+.vs/
+.vscode/
+
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables and app bundles
+*.exe
+*.out
+*.app
+
+# CMake build directory
+cmake-build-*/
